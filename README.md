@@ -5,9 +5,8 @@
 #### 구구단 출력기
 <pre>
  <hr>
-구구단 출력기
 <code>
- void main() { // 구구단 출력기
+ void main() {
   for (int i = 2; i < 10; i++) {
     for (int j = 1; j < 10; j++) {
       print('$i x $j = ${i * j}');
