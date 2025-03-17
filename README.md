@@ -4,7 +4,6 @@
 
 #### 구구단 출력기
 
-<pre>
 <code>
  void main() {
   for (int i = 2; i < 10; i++) {
@@ -15,5 +14,3 @@
   }
 }   
 </code>
-    </pre>
-    <hr>
