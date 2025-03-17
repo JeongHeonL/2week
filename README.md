@@ -4,7 +4,7 @@
 
 #### 구구단 출력기
 
- <hr>
+<pre>
 <code>
  void main() {
   for (int i = 2; i < 10; i++) {
@@ -14,5 +14,6 @@
     print(''); // 각 단 구별
   }
 } 
+</pre>   
 </code>
 <hr>
