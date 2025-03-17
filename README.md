@@ -3,7 +3,7 @@
 #### 2주차 과제
 
 #### 구구단 출력기
-
+<pre>
 <code>
  void main() {
   for (int i = 2; i < 10; i++) {
@@ -14,12 +14,15 @@
   }
 }   
 </code>
+</pre>
 
 <hr></hr>
 
 #### 정사각형 길이 입력 후 정사각형 출력
+
+<pre>
 <code>
-/*void main() {
+void main() {
   var n = 10;
   var result = '';
   for (var y = 0; y < n; y++) {
@@ -49,13 +52,15 @@ bool f2(int x, int y, int size){
     || x == size - 1
     || y == size - 1;
 }
-}*/
+}
 </code>
+</pre>
 
 <hr></hr>
 
 #### 년/월/일을 입력하면 요일을 출력
 
+<pre>
 <code>
 
 void main() {
@@ -65,4 +70,5 @@ void main() {
 }
  
 </code>
+</pre>
 
