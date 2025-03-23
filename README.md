@@ -102,7 +102,3 @@ void main() {
  
 </code>
 </pre>
-Link:[dart] [dart2] [dart3]
-[dart]: https://dartpad.dev/
-[dart2]: https://api.dart.dev/dart-core/DateTime/weekday.html
-[dart3]: https://velog.io/@gunwng123/%ED%8A%B9%EC%A0%95-%EB%82%A0%EC%A7%9C%EC%9D%98-%EC%A3%BC-%EC%8B%9C%EC%9E%91%EC%9D%BC%EA%B3%BC-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%BC-%EA%B5%AC%ED%95%98%EA%B8%B0
