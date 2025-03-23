@@ -22,7 +22,6 @@
 
 <pre>
 <code>
- ```
 void main() {
   var n = 10;
   var result = '';
@@ -56,7 +55,7 @@ bool f2(int x, int y, int size){
 }
 </code>
 </pre>
-```
+
 <hr></hr>
 
 #### 년/월/일을 입력하면 요일을 출력
